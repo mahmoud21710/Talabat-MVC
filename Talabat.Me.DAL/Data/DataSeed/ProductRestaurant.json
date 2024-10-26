@@ -1,0 +1,75 @@
+[
+    {
+        "RestaurantsId" : 1 ,
+        "ProductsId" : 1
+    },
+    {
+        "RestaurantsId" : 1 ,
+        "ProductsId" : 2
+    },
+    {
+        "RestaurantsId" : 1 ,
+        "ProductsId" : 3
+    },
+    {
+        "RestaurantsId" : 2 ,
+        "ProductsId" : 4
+    },
+    {
+        "RestaurantsId" : 2 ,
+        "ProductsId" : 5
+    },
+    {
+        "RestaurantsId" : 2 ,
+        "ProductsId" : 6
+    },
+    {
+        "RestaurantsId" : 3 ,
+        "ProductsId" : 7
+    },
+    {
+        "RestaurantsId" : 3 ,
+        "ProductsId" : 8
+    },
+    {
+        "RestaurantsId" : 3 ,
+        "ProductsId" : 9
+    },
+    {
+        "RestaurantsId" : 4 ,
+        "ProductsId" : 10
+    },
+    {
+        "RestaurantsId" : 4 ,
+        "ProductsId" : 11
+    },
+    {
+        "RestaurantsId" : 4 ,
+        "ProductsId" : 12
+    },
+    {
+        "RestaurantsId" : 5 ,
+        "ProductsId" : 13
+    },
+    {
+        "RestaurantsId" : 5 ,
+        "ProductsId" : 14
+    },
+    {
+        "RestaurantsId" : 5 ,
+        "ProductsId" : 15
+    },
+    {
+        "RestaurantsId" : 1 ,
+        "ProductsId" : 16
+    },
+    {
+        "RestaurantsId" : 1 ,
+        "ProductsId" : 17
+    },
+    {
+        "RestaurantsId" : 1 ,
+        "ProductsId" : 18
+    }
+    
+]

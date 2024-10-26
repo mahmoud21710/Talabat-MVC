@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Product>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<head>
+    <meta charset="utf-8" />
+    <title>Display Products</title>
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lip/jquery/dist/jquery.js"></script> 
+</head>
+<body>
+    <div class="container">
+        <h1 class="my-4">Display Products</h1>
+        <div class="row">
+            @foreach (var product in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <img class="card-img-top" src="@Url.Content("~/images/" + product.PictureUrl)" alt="@product.Name">
+                        <div class="card-body">
+                            <h5 class="card-title">@product.Name</h5>
+                            <p class="card-text">@product.Description</p>
+                            <p class="card-text">@product.Brand.Name</p>
+                            <p class="card-text">@product.Type.Name</p>                           
+                            <p class="card-text"><strong>@product.Price EGP </strong></p>
+                            <button asp-action="AddToCart" class="btn btn-primary">Add To Cart</button>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+   
+    
+</body>
+

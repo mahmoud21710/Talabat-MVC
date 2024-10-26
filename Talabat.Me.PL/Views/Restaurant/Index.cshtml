@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Restaurants>
+
+@{
+    ViewData["Title"] = "Display Restaurants";
+}
+
+<h1>Display Restaurants</h1>
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="utf-8" />
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        
+        <div class="row">
+            @foreach (var restaurant in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <img class="card-img-top" src="@restaurant.PictureUrl" alt="@restaurant.Name">
+                        <div class="card-body">
+                            <h5 class="card-title">@restaurant.Name</h5>
+                            <p class="card-text">@restaurant.Description</p>
+                            <p class="card-text"><strong>Phone :</strong> @restaurant.PhoneNumber</p>
+                            <p class="card-text"><strong>Address :</strong> @restaurant.Address</p>
+                            <a href="#" class="btn btn-primary">Show more</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

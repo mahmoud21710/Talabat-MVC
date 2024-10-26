@@ -1,0 +1,37 @@
+[
+    {
+        "Name" : "El Sheikh Mohamed",
+        "Description" :"El Sheikh Mohamed, located in Kerdasa, a neighborhood in the sprawling district of Al-Haram, is renowned for its camel liver, a relatively niche Egyptian delicacy that has its diehard fans. Upon arrival, guests are led to seats surrounding a purpose-built table designed to resemble a large aluminum wok (a common sight in carts that serve liver around the country), where they can watch as staff cook fresh camel liver before their eyes. El Sheikh Mohamed alternatively serves a variety of other standard grilled meats, like beef kabab and kofta, but unlike the signature experience here, these are prepared on large grills behind the scenes." ,
+        "PhoneNumber" :"01026782817",
+        "Address" :"Al Mansoureya Canal, Kerdasa, Giza Governorate 12211, Egypt",
+        "PictureUrl" : "images/restaurants/ELSheikhMohamed.png"
+    },
+    {
+        "Name" : "Khufu's",
+        "Description" :"After touring the Giza Plateau, step into the tranquil atmosphere of Khufu’s, where chef Mostafa Seif serves up a feast with the pyramids as a breathtaking backdrop. Sip on a glass of fresh banana milk while choosing from four set menus (including a vegetarian option), each consisting of a four-course meal with a choice of main dish. Seif puts gourmet twists on traditional Egyptian dishes, including koshary salad made with mefatela (a rural dough made of ground unprocessed wheat and skillfully kneaded with flour, producing little pearls similar to couscous), molokhia (classic green mallow soup) with rabbit, and savory qatayef, a pancake-like pastry that Egyptians stuff and fry, enjoyed both sweet and savory. This is an excellent introduction to Egyptian cuisine, particularly elements that are not easily found in restaurants catering to tourists." ,
+        "PhoneNumber" :"01279999562",
+        "Address" :"Nazlet El-Semman, Al Haram ,Giza Governorate 1512 , Egypt",
+        "PictureUrl" : "images/restaurants/_DSC9845.0.png"
+    },
+    {
+        "Name" : "Hawawshi El Rabie",
+        "Description" :"Although quiet during the day, this residential part of Imbaba becomes animated in the evening, thanks to Hawawshi El Rabie, which originated as a family-run butchery but now serves a lineup of Egyptian street food. Grills sprawl out from the corner shop, providing plenty of opportunity for customers to watch the staff in action. Crowd favorites include mbakbaka with sugok (small pasta slathered with spicy tomato sauce and seared on a grill to form crispy edges, before being optionally topped with beef sausage) and hawawshi (seasoned beef mince stuffed in baladi bread that’s brushed with ghee before it’s grilled to crispy perfection). If you go for the wara’et lahma (beef thigh meat with onion, garlic, potatoes, and carrots slow-cooked within a wrapper of parchment paper), be sure to order a side of vermicelli rice to soak up the juices at the bottom.",
+        "PhoneNumber" :"01007273768",
+        "Address" :"Mohammed Al Embabi,El-Tahrir City, Imbaba, Giza Governorate 3854621 , Egypt",
+        "PictureUrl" : "images/restaurants/Hawawshi El Rabie.png"
+    },
+    {
+        "Name" : "Crimson Bar & Grill",
+        "Description" :"When residents of densely packed Zamalek aren’t busy sipping coffee in one of the island’s compact cafes, shopping in its boutiques, or perusing its art galleries, they head for Crimson’s relaxed terrace for a breezy breakfast or a sophisticated night out. A fantastic view of the Nile is the perfect backdrop for stylish Mediterranean and Italian dishes. Start with the salmon roll (beetroot-cured salmon with cream cheese and shrimp, topped with salty black caviar), followed by the succulent grilled chateaubriand for two, and the signature pineapple creme brulee (baked within a pineapple). Crimson is also known for its impressive selection of cocktails, most notably a bright gin and tonic infused with coriander and rosemary. Reservations are highly recommended.",
+        "PhoneNumber" :"01275055555",
+        "Address" :"16 Kamal Al Tawil St Zamalek Muḩāfaz̧at al Qāhirah Egypt ",
+        "PictureUrl" : "images/restaurants/Crimson Bar & Grill.png"
+    },
+    {
+        "Name" : "Escobar",
+        "Description" :"When residents of densely packed Zamalek aren’t busy sipping coffee in one of the island’s compact cafes, shopping in its boutiques, or perusing its art galleries, they head for Crimson’s relaxed terrace for a breezy breakfast or a sophisticated night out. A fantastic view of the Nile is the perfect backdrop for stylish Mediterranean and Italian dishes. Start with the salmon roll (beetroot-cured salmon with cream cheese and shrimp, topped with salty black caviar), followed by the succulent grilled chateaubriand for two, and the signature pineapple creme brulee (baked within a pineapple). Crimson is also known for its impressive selection of cocktails, most notably a bright gin and tonic infused with coriander and rosemary. Reservations are highly recommended.",
+        "PhoneNumber" :"01271333388",
+        "Address" :">9 El-Moustashar Mohammed Fahmy El-Sayed, Qasr Ad Dobarah, Qasr El Nil, Cairo Governorate 4272060, Egypt ",
+        "PictureUrl" : "images/restaurants/Escobar.png"
+    }
+]
